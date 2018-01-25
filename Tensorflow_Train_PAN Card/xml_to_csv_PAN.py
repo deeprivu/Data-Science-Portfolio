@@ -10,7 +10,7 @@ import glob
 import pandas as pd
 import xml.etree.ElementTree as ET
 
-os.chdir('E:\Python_Spyder\PAN_CARD_data')
+os.chdir('E:\PAN_CARD_data')
 
 def xml_to_csv(path):
     xml_list = []
