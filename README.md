@@ -2,17 +2,17 @@
 Repository housing few code samples from the projects, worked upon previously for skill development &amp; academic purposes 
 
 Here are the details of the sample codes provided:
-1) Bad Loans prediction.R: Loan Defaulter Prediction Model: Exploratory and Predictive analysis done to predict probability of loan default for a consumer financial company based on the past trends. Graphs plotted for Business Presentation using Tableau.
+1) __Bad Loans prediction.R__ : [Loan Defaulter Prediction Model](https://github.com/deeprivu/analytics_project/blob/master/Bad%20Loans%20prediction.R): Exploratory and Predictive analysis done to predict probability of loan default for a consumer financial company based on the past trends. Graphs plotted for Business Presentation using Tableau.
 
-2) car_assignment.R: Car Pricing Prediction Model: Developed model to predict the car’s price for a new entrant in an existing competitive market, using linear regression, selecting the best model through AIC, adjusted r-square, vif, and p-values (variance <=5%).
+2) __car_assignment.R__: [Car Pricing Prediction Model](https://github.com/deeprivu/analytics_project/blob/master/car_assignment.R): Developed model to predict the car’s price for a new entrant in an existing competitive market, using linear regression, selecting the best model through AIC, adjusted r-square, vif, and p-values (variance <=5%).
 
-3) casestudy.R: EDA analysis to decide on the factors that affect funding
+3) __casestudy.R__: [Investment Funding Analysis](https://github.com/deeprivu/analytics_project/blob/master/casestudy.R) : EDA analysis to decide on the factors that affect Investment funding of startups.
 
-4) HR Attrition Case Study.R: HR Attrition Model: Developed a model to determine the probability of attrition using a logistic regression with 75% accuracy; confusion matrix; gain & lift charts; AIC. Suggestions provided for the management to retain the best employees.
+4) __HR Attrition Case Study.R__: [HR Attrition Model](https://github.com/deeprivu/analytics_project/blob/master/HR%20Attrition%20Case%20Study.R): Developed a model to determine the probability of attrition using a logistic regression with 75% accuracy; confusion matrix; gain & lift charts; AIC. Suggestions provided for the management to retain the best employees.
 
-5) Uber_Case_Study.R: EDA analysis to interpret and visualise the supply-demand gap airport to-and-fro city
+5) __Uber_Case_Study.R__:[Uber Case Study](https://github.com/deeprivu/analytics_project/blob/master/Uber_Case_Study.R): EDA analysis to interpret and visualise the supply-demand gap airport to-and-fro city
 
-6) Tensorflow_Train_PAN Card: Contains Python scripts used for training the mobile net SSD models on PAN card with the help of TensorFlow Object Detection API, which uses Faster R-CNN for training.  
+6) __Tensorflow_Train_PAN Card__: [AI Based PAN Card Recognistion](https://github.com/deeprivu/analytics_project/tree/master/Tensorflow_Train_PAN%20Card): Contains Python scripts used for training the mobile net SSD models on PAN card with the help of TensorFlow Object Detection API, which uses Faster R-CNN for training.  
                 Following are the description of the Python Files:
                 
                   1)Face_recognition_with smartphone_camera_input.py: Useof OpenCV libraries to detect eyes and face, taking input from Samrtphone Camera
