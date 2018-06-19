@@ -1,12 +1,15 @@
 # analytics_project
-Repository housing few code samples from the projects, worked upon previously for skill development &amp; academic purposes 
+Repository housing few code samples from the projects, worked upon previously for skill development &amp; academic purposes. For any clarification/suggestion, please drop a mail @ pal.deep123@gmail.com / [LinkedIn](https://www.linkedin.com/in/souradeep-pal/)
+
+![Wallpaper](https://coverfiles.alphacoders.com/427/42721.jpg)
+
 
 Here are the details of the sample codes provided:
 1) __Bad Loans prediction.R__ : [Loan Defaulter Prediction Model](https://github.com/deeprivu/analytics_project/blob/master/Bad%20Loans%20prediction.R): Exploratory and Predictive analysis done to predict probability of loan default for a consumer financial company based on the past trends. Graphs plotted for Business Presentation using Tableau.
 
 2) __car_assignment.R__: [Car Pricing Prediction Model](https://github.com/deeprivu/analytics_project/blob/master/car_assignment.R): Developed model to predict the car’s price for a new entrant in an existing competitive market, using linear regression, selecting the best model through AIC, adjusted r-square, vif, and p-values (variance <=5%).
 
-3) __casestudy.R__: [Investment Funding Analysis](https://github.com/deeprivu/analytics_project/blob/master/casestudy.R) : EDA analysis to decide on the factors that affect Investment funding of startups.
+3) __casestudy.R__: [Investment Funding Analysis](https://github.com/deeprivu/analytics_project/blob/master/casestudy.R): EDA analysis to decide on the factors that affect Investment funding of startups.
 
 4) __HR Attrition Case Study.R__: [HR Attrition Model](https://github.com/deeprivu/analytics_project/blob/master/HR%20Attrition%20Case%20Study.R): Developed a model to determine the probability of attrition using a logistic regression with 75% accuracy; confusion matrix; gain & lift charts; AIC. Suggestions provided for the management to retain the best employees.
 
